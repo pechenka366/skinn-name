@@ -1,0 +1,6 @@
+# Ignore all files with a .ts or .tsx extension
+
+
+# Ignore specific directories
+/cart.ts
+/lib/utils/
