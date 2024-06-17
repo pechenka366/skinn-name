@@ -54,10 +54,10 @@
     "comparison": {
       "umbrella": "Umbrellas",
       "bags": "Bags",
-      "outerwear": "Outerwear",
+      "outerwear": "Bags",
       "long-sleeves": "Long-sleeves",
       "headdress": "Headdress",
-      "hoodie": "Hoodie",
+      "hoodie": "Travel bags",
       "business-souvenirs": "Business-souvenirs",
       "promotional-souvenirs": "Promotional-souvenirs",
       "pen": "Pens",
@@ -297,7 +297,7 @@
     "comparison": {
       "umbrella": "Зонты",
       "bags": "Сумки",
-      "outerwear": "Верхняя одежда",
+      "outerwear": "Сумки походные",
       "long-sleeves": "Лонг-сливы",
       "headdress": "Головные уборы",
       "hoodie": "Сумки дорожные",
