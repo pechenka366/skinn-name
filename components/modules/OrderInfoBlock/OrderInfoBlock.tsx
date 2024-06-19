@@ -89,7 +89,7 @@ const OrderInfoBlock = ({
           <span className={styles.order_block__agreement__text}>
             {translations[lang].order.agreement_text}{' '}
             <Link
-              href="/privacy"
+              href="/personal-data-policy"
               className={styles.order_block__agreement__link}
             >
               {translations[lang].order.agreement_link}
